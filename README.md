@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [What to Expect](#What_to_Expect)
+* [What to Expect](#What-to-Expect)
 * [Built With](#Built With)
 
 ## Instructions
