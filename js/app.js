@@ -1,13 +1,8 @@
 // List that holds all cards
-const cards = ['fa-diamond', 'fa-diamond',
-			   'fa-paper-plane-o', 'fa-paper-plane-o',
-			   'fa-anchor', 'fa-anchor',
-			   'fa-bolt', 'fa-bolt',
-			   'fa-cube', 'fa-cube',
-			   'fa-leaf', 'fa-leaf',
-			   'fa-bicycle', 'fa-bicycle',
-			   'fa-bomb', 'fa-bomb'
+let cards = ['fa-diamond', 'fa-paper-plane-o', 'fa-anchor', 'fa-bolt',
+				'fa-cube', 'fa-leaf', 'fa-bicycle', 'fa-bomb'
 			  ];
+cards = cards.concat(cards);
 
 //Function that creates the cards
 function generateCard(card){
