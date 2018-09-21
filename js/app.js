@@ -2,6 +2,7 @@
 let cards = ['fa-diamond', 'fa-paper-plane-o', 'fa-anchor', 'fa-bolt',
 				'fa-cube', 'fa-leaf', 'fa-bicycle', 'fa-bomb'
 			  ];
+
 cards = cards.concat(cards);
 
 //Function that creates the cards
