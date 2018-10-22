@@ -1,10 +1,14 @@
 # Memory Game Project
 
 ## Table of Contents
-
+* [Run Game Locally](#run-game-locally)
 * [Instructions](#instructions)
 * [What to Expect](#what-to-expect)
 * [Built With](#built-with)
+
+## Run Game Locally
+
+Please open index.html in a browser
 
 ## Instructions
 
