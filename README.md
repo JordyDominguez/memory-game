@@ -1,5 +1,7 @@
 # Memory Game
 
+![Matching Game](img/Matching-Game.gif)
+
 ## Table of Contents
 * [Run Game Locally](#run-game-locally)
 * [Instructions](#instructions)
