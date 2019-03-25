@@ -1,6 +1,6 @@
 # Memory Game
 
-![Matching Game](img/Matching-Game.gif)
+<p align="center">![Matching Game](img/Matching-Game.gif)</p>
 
 ## Table of Contents
 * [Run Game Locally](#run-game-locally)
